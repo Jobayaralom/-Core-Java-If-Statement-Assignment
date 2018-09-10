@@ -33,7 +33,7 @@ public class specific_legal_problems {
 			statement = "*** You Can Do Anything That's Legal ***";
 		}
 		else {
-			statement = "WARNING!!! INVALIDE INPUTE ";
+			statement = "WARNING!!! INVALIDE INPUTE  ";
 		}
 		
 		System.out.println(statement);
