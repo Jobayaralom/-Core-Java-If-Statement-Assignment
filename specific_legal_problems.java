@@ -38,9 +38,4 @@ public class specific_legal_problems {
 		
 		System.out.println(statement);
 	}
-	
-	
-	
-
-
 }
